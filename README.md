@@ -67,21 +67,26 @@ It is a Deep learning Application developed in team of three members as a Major 
 ## Snaps of Project
 
 # Hero page
-  ![Homepage](https://github.com/user-attachments/assets/7f5d4a58-6182-41a0-9518-8f26f4ce4a4f)
+ <img width="959" height="437" alt="Homepage" src="https://github.com/user-attachments/assets/9dcc10b3-d874-4a1e-908b-4a27fc34d863" />
+
 
 # Signup and Login page
 
-  ![signupmed](https://github.com/user-attachments/assets/e01d9b99-34c7-4349-ac65-0c5fa1d09a46)
+ <img width="960" height="433" alt="signupmed" src="https://github.com/user-attachments/assets/6f1ceca0-9038-4a3e-b9c8-acc2a4595848" />
 
-  ![LoginMed](https://github.com/user-attachments/assets/27e9aaf9-c14e-4e7d-a354-67553ad6466a)
+
+ <img width="960" height="439" alt="LoginMed" src="https://github.com/user-attachments/assets/30266132-1da5-493a-91aa-fc24e60c13cd" />
+
 
 # Main page
 
-  ![Mainpagemed](https://github.com/user-attachments/assets/6fe0a50c-a371-4801-bfba-6cbb7065f344)
+  <img width="960" height="431" alt="Mainpagemed" src="https://github.com/user-attachments/assets/c36f665e-5138-4772-b781-42a11e4cab2b" />
+
 
 # Sample output 
    
-  ![OutputMed](https://github.com/user-attachments/assets/648f1ed6-2afa-4c3e-a18a-7e0cef9012c9)
+ <img width="889" height="402" alt="OutputMed" src="https://github.com/user-attachments/assets/5ab6bcb1-6f1d-4c8f-8ad1-34a35885656d" />
+
 
 
 
